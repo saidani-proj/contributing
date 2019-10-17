@@ -48,3 +48,7 @@ After discussions and probability helped by GitHub [reaction feature](https://gi
 
 To edit a file or add new content in your forked project, you can use integrated GitHub editor.
 It's possible to use Visual Studio Code editor, see [Contributing using VSCode](content/CONTRIBUTING-VSCode.md) for more details.
+
+## License
+
+This project is under [**CREATIVE COMMONS LICENSE**](LICENSE.txt).
