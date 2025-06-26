@@ -35,7 +35,7 @@ Before any modification keep your local clone synchronized with upstream reposit
 
 Use `Alt+M` shortcut to insert some Markdown blocs, keep your code clean using *markdownlint* VSCode plugin.
 
-After modifications et if you are satisfied with your contribution, push it to upstream using **push** sub-menu
+After modifications and if you are satisfied with your contribution, push it to upstream using **push** sub-menu
 
 ![push sub-menu](CONTRIBUTING-VSCode/pull-sub-menu.png)
 
