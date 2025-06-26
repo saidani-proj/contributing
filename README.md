@@ -4,7 +4,7 @@ This contributing guide is used by multiple projects, you can refer it if you wa
 
 ## How contributing
 
-There are different ways to contribute to any **tcdorg** project. The easy way is to create an issue. To do this, follow these steps :
+There are different ways to contribute to any **saidani** project. The easy way is to create an issue. To do this, follow these steps :
 
 1. Go to project
 1. Go to Issues section
